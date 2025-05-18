@@ -23,8 +23,11 @@ mv fusionFM-weights pretrain_weights
 * 确保权重文件都在 `pretrain_weights` 文件夹内，路径示例如：
 
 ```
-./pretrain_weights/model1.pth
-./pretrain_weights/model2.pth
+./pretrain_weights/3_blocks_3_patches.pth
+./pretrain_weights/RETFound_cfp_weights.pth
+./pretrain_weights/RetiZero.pth
+./pretrain_weights/VFM_Fundus_weights.pth
+
 ```
 
 ---
