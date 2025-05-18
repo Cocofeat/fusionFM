@@ -75,7 +75,7 @@ bash scripts/run_all_models.sh /data1/zouke/projects_data/PAPILA/ PAPILA 3
 ---
 
 如果有任何问题，欢迎随时联系！
-
+kezou8@gmail.com
 ```
 
 ---
