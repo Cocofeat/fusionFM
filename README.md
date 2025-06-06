@@ -81,7 +81,3 @@ bash scripts/run_all_models.sh /data1/zouke/projects_data/PAPILA/ PAPILA 3
 kezou8@gmail.com
 ```
 
----
-
-需要我帮你写一个更简洁的邮件正文模板，把这个 README 附上也可以。
-```
